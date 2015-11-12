@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+NOBUILD
+^\.travis\.yml$
+LICENSE
