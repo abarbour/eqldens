@@ -2,4 +2,4 @@
 ^\.Rproj\.user$
 NOBUILD
 ^\.travis\.yml$
-LICENSE
+inst/LICENSE
