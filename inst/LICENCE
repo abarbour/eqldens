@@ -1,0 +1,11 @@
+This code is an adaptation of Duncan Agnew's  eqldens  software, which was published 
+in Seismological Research Letters:
+
+	Agnew, D. C. (2015). Equalized Plot Scales for Exploring Seismicity Data.
+	Seismological Research Letters, 86(5), 1412-1423. doi: 10.1785/0220150054
+
+	http://www.seismosoc.org/Publications/SRL/SRL_86/srl_86-5_agnew-esupp/SRL_2015054_esupp_srl_eqldens.tar.gz
+
+More information:
+
+	http://igppweb.ucsd.edu/~agnew/Denseq/
