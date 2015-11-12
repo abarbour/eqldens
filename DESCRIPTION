@@ -1,0 +1,19 @@
+Package: eqldens
+Type: Package
+Title: Mapping Earthquake Magnitudes to Gutenberg-Richter Distributions
+Version: 0.1.9999
+Date: 2015-11-12
+Author: Andrew J Barbour (R-code), Duncan Carr Agnew (mapping method)
+Maintainer: Andrew J Barbour <andy.barbour@gmail.com>
+Description: Agnew (2015) proposed a new way to visualize large
+    earthquake catalogs by mapping the observed distribution of magnitudes
+    onto a Gutenberg-Richter distribution, thereby eliminating as many
+    instances of overlapping data as possible.
+URL: https://github.com/abarbour/eqldens
+BugReports: https://github.com/abarbour/eqldens/issues
+License: GPL (>= 2)
+Depends:
+    utils,
+    graphics,
+    stats
+LazyData: TRUE

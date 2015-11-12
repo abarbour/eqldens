@@ -1,0 +1,31 @@
+# .travis.yml for 'eqldens'
+
+language: r
+warnings_are_errors: false
+sudo: required
+
+#r_binary_packages:
+#  - plyr
+#  - dplyr
+#  - knitr
+#  - magrittr
+#  - raster
+#  - rasterVis
+#  - reshape2
+#  - Rcpp
+#  - RColorBrewer
+#  - R.matlab
+#  - testthat
+#  - TeachingDemos
+
+#r_github_packages:
+#  - jimhester/covr
+#  - sjmgarnier/viridis
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+
+#after_success:
+#  - Rscript -e 'library(covr);codecov()'
